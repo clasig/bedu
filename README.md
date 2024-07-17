@@ -82,11 +82,13 @@ También notamos que estaba siendo muy “políticamente correcto”, lo cual co
 
 Repetimos el proceso más o menos con la misma técnica para llegar a los otros 2 entregables:
 
-- Un email de carrito abandonado para incentivar las compras en la tienda en línea.
+#### 2o Entregable
+Un email de carrito abandonado para incentivar las compras en la tienda en línea.
   
 ![Segundo entregable](images/segundo_entregable.png)
 
-- Una valla para anuncio en exterior.
+#### 3er Entregable
+Una valla para anuncio en exterior.
   
 ![Tercer entregable](images/tercer_entregable.png)
 
