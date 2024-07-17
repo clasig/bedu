@@ -1,8 +1,8 @@
 # Challenge 1
 
-## Introducción a la IA Generativa
+Introducción a la IA Generativa
 
-### Creación de Contenido con ChatGPT
+Creación de Contenido con ChatGPT
 
 **Fecha de entrega:** 17 de julio del 2024
 
