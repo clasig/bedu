@@ -75,11 +75,15 @@ También notamos que estaba siendo muy “políticamente correcto”, lo cual co
 ![Nuevo feedback](images/nuevo_feedback.png)
 
 #### 1er Entregable
-
-▄█░ █▀▀ █▀▀█ 　 ▒█▀▀▀ █▀▀▄ ▀▀█▀▀ █▀▀█ █▀▀ █▀▀▀ █▀▀█ █▀▀▄ █░░ █▀▀ 
-░█░ █▀▀ █▄▄▀ 　 ▒█▀▀▀ █░░█ ░░█░░ █▄▄▀ █▀▀ █░▀█ █▄▄█ █▀▀▄ █░░ █▀▀ 
-▄█▄ ▀▀▀ ▀░▀▀ 　 ▒█▄▄▄ ▀░░▀ ░░▀░░ ▀░▀▀ ▀▀▀ ▀▀▀▀ ▀░░▀ ▀▀▀░ ▀▀▀ ▀▀▀
-
+  __             ______       _                        _     _      
+ /_ |           |  ____|     | |                      | |   | |     
+  | | ___ _ __  | |__   _ __ | |_ _ __ ___  __ _  __ _| |__ | | ___ 
+  | |/ _ \ '__| |  __| | '_ \| __| '__/ _ \/ _` |/ _` | '_ \| |/ _ \
+  | |  __/ |    | |____| | | | |_| | |  __/ (_| | (_| | |_) | |  __/
+  |_|\___|_|    |______|_| |_|\__|_|  \___|\__, |\__,_|_.__/|_|\___|
+                                            __/ |                   
+                                           |___/                    
+                                           
 ![Primer entregable](images/primer_entregable.png)
 
 Repetimos el proceso más o menos con la misma técnica para llegar a los otros 2 entregables:
