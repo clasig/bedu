@@ -51,8 +51,6 @@ Con esto, GPT adaptó la estrategia un poco mejor, sin embargo, decidió cambiar
 
 Ahí identificamos un área de oportunidad para que, sin cambiar el nombre del producto, los casos de uso debieran adaptarse al mercado mexicano: “no comemos burritos, pero sí mucha garnacha”.
 
-![Definición del mercado meta](images/mercado_meta.png)
-
 Tras tener una mejor definición del mercado meta y la tropicalización del producto al mercado, sin cambiar su nombre, solicitamos a ChatGPT crear un “concepto creativo” que sería la línea rectora para la generación de nuestros entregables:
 
 ![Concepto creativo](images/concepto_creativo.png)
@@ -60,6 +58,7 @@ Tras tener una mejor definición del mercado meta y la tropicalización del prod
 Siguiendo la lógica del “juego de rol” le fuimos dando feedback, “a nombre del cliente” para guiar a GPT hacia propuestas más creativas:
 
 ![Feedback al cliente](images/feedback_cliente.png)
+![Feedback al cliente](images/feedback_cliente2.png)
 
 ---
 
@@ -84,7 +83,12 @@ También notamos que estaba siendo muy “políticamente correcto”, lo cual co
 Repetimos el proceso más o menos con la misma técnica para llegar a los otros 2 entregables:
 
 - Un email de carrito abandonado para incentivar las compras en la tienda en línea.
+  
+![Segundo entregable](images/segundo_entregable.png)
+
 - Una valla para anuncio en exterior.
+  
+![Tercer entregable](images/tercer_entregable.png)
 
 ---
 
