@@ -1,8 +1,6 @@
 # Challenge 1
 
-## Introducción a la IA Generativa
-
-### Creación de Contenido con ChatGPT
+## Introducción a la IA Generativa: Creación de Contenido con ChatGPT
 
 **Fecha de entrega:** 17 de julio del 2024
 
@@ -60,9 +58,6 @@ Siguiendo la lógica del “juego de rol” le fuimos dando feedback, “a nombr
 ![Feedback al cliente](images/feedback_cliente.png)
 ![Feedback al cliente](images/feedback_cliente2.png)
 
----
-
-### Entregables Específicos
 
 Una vez que tuvimos un concepto, pasamos a los entregables específicos:
 
@@ -76,17 +71,27 @@ También notamos que estaba siendo muy “políticamente correcto”, lo cual co
 
 ![Nuevo feedback](images/nuevo_feedback.png)
 
-#### 1er Entregable
+----
+
+### Resultado Final
+
+```text
+🅡🅔🅢🅤🅛🅣🅐🅓🅞 🅕🅘🅝🅐🅛             
+```
+
+#### 1er Entregable     
 
 ![Primer entregable](images/primer_entregable.png)
 
 Repetimos el proceso más o menos con la misma técnica para llegar a los otros 2 entregables:
 
-- Un email de carrito abandonado para incentivar las compras en la tienda en línea.
+#### 2o Entregable
+Un email de carrito abandonado para incentivar las compras en la tienda en línea.
   
 ![Segundo entregable](images/segundo_entregable.png)
 
-- Una valla para anuncio en exterior.
+#### 3er Entregable
+Una valla para anuncio en exterior.
   
 ![Tercer entregable](images/tercer_entregable.png)
 
