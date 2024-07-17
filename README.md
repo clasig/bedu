@@ -28,14 +28,15 @@ En este proyecto, cada equipo trabajará colaborativamente para generar contenid
 La inteligencia artificial generativa, como ChatGPT, ha transformado la manera en que se crea contenido. Estas herramientas permiten la generación rápida y eficiente de texto, ofreciendo nuevas posibilidades para la creación de contenido personalizado y adaptado a diversas audiencias. Al utilizar IA generativa, los creadores de contenido pueden ahorrar tiempo y recursos, al mismo tiempo que mantienen un alto nivel de calidad y relevancia. Este proyecto no solo proporciona una comprensión práctica de cómo utilizar estas herramientas, sino que también destaca su potencial para innovar y optimizar la creación de contenido en diversos contextos profesionales.
 
 ---
+## Dinámica
 
-## Exploración Previa
+### Exploración Previa
 
 **Tema del Proyecto:** Campaña de marketing para lanzamiento de “Burrito Pop” en México.
 
 **Fuente:** [burritopop.com](https://burritopop.com/)
 
-### Draft de Contenido
+### Draft, Revisiones y Fact Checking
 
 Lo primero fue poner en contexto a ChatGPT utilizando la dinámica de “role play” para darle un papel: ser un equipo de marketing trabajando para un cliente que busca lanzar un producto en el mercado mexicano:
 
@@ -83,6 +84,8 @@ También notamos que estaba siendo muy “políticamente correcto”, lo cual co
 
 ![Primer entregable](images/primer_entregable.png)
 
+![Mockup](images/primer_entregable_mockup.png)
+
 Repetimos el proceso más o menos con la misma técnica para llegar a los otros 2 entregables:
 
 #### 2o Entregable
@@ -90,10 +93,14 @@ Un email de carrito abandonado para incentivar las compras en la tienda en líne
   
 ![Segundo entregable](images/segundo_entregable.png)
 
+![Mockup](images/segundo_entregable_mockup.png)
+
 #### 3er Entregable
 Una valla para anuncio en exterior.
   
 ![Tercer entregable](images/tercer_entregable.png)
+
+![Mockup](images/tercer_entregable_mockup.png)
 
 ---
 
