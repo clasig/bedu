@@ -58,9 +58,6 @@ Siguiendo la lógica del “juego de rol” le fuimos dando feedback, “a nombr
 ![Feedback al cliente](images/feedback_cliente.png)
 ![Feedback al cliente](images/feedback_cliente2.png)
 
----
-
-### Entregables Específicos
 
 Una vez que tuvimos un concepto, pasamos a los entregables específicos:
 
@@ -74,14 +71,11 @@ También notamos que estaba siendo muy “políticamente correcto”, lo cual co
 
 ![Nuevo feedback](images/nuevo_feedback.png)
 
+----
+
+### Resultado Final
 
 ```text
-
-┏━┓╋┏━┓╋╋╋┏┓╋╋╋╋┏┓╋╋┏━━┳┓
-┃╋┣━┫━╋┳┳┓┃┗┳━┓┏┛┣━┓┃━┳╋╋━┳┳━┓┏┓
-┃┓┫┻╋━┃┃┃┗┫┏┫╋┗┫╋┃╋┃┃┏┛┃┃┃┃┃╋┗┫┗┓
-┗┻┻━┻━┻━┻━┻━┻━━┻━┻━┛┗┛╋┗┻┻━┻━━┻━┛
-
 🅡🅔🅢🅤🅛🅣🅐🅓🅞 🅕🅘🅝🅐🅛             
 ```
 
