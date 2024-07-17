@@ -106,6 +106,10 @@ Al pasar al segundo chat, le dimos como contexto el detalle de público objetivo
 **Claudia:**
 Debido a que nuestro tema no requería mucha investigación o *fact checking* al tratarse de un tema más creativo que informativo, la dinámica fue bastante ligera y más que hacer *prompt engineering* para evitar alucinaciones, como sucede con temas más de carácter informativo, nuestra dinámica fue bastante más libre, aprovechando el lenguaje natural para dar feedback similar a un “peloteo creativo”.
 
+**Mauricio:**
+ChatGPT no capta bien los modismos, el humor negro ni la picardía de ciertos lugares. Tuvimos que enseñarle y darle tiempo para que se adaptara. Iterar constantemente de lo formal a lo informal.
+
+
 ---
 
 ### Anexos
