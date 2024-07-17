@@ -76,6 +76,10 @@ También notamos que estaba siendo muy “políticamente correcto”, lo cual co
 
 #### 1er Entregable
 
+▄█░ █▀▀ █▀▀█ 　 ▒█▀▀▀ █▀▀▄ ▀▀█▀▀ █▀▀█ █▀▀ █▀▀▀ █▀▀█ █▀▀▄ █░░ █▀▀ 
+░█░ █▀▀ █▄▄▀ 　 ▒█▀▀▀ █░░█ ░░█░░ █▄▄▀ █▀▀ █░▀█ █▄▄█ █▀▀▄ █░░ █▀▀ 
+▄█▄ ▀▀▀ ▀░▀▀ 　 ▒█▄▄▄ ▀░░▀ ░░▀░░ ▀░▀▀ ▀▀▀ ▀▀▀▀ ▀░░▀ ▀▀▀░ ▀▀▀ ▀▀▀
+
 ![Primer entregable](images/primer_entregable.png)
 
 Repetimos el proceso más o menos con la misma técnica para llegar a los otros 2 entregables:
