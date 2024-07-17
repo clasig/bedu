@@ -84,7 +84,6 @@ También notamos que estaba siendo muy “políticamente correcto”, lo cual co
 
 ![Primer entregable](images/primer_entregable.png)
 
-![Mockup](images/primer_entregable_mockup.png)
 
 Repetimos el proceso más o menos con la misma técnica para llegar a los otros 2 entregables:
 
