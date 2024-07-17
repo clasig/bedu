@@ -41,15 +41,25 @@ La inteligencia artificial generativa, como ChatGPT, ha transformado la manera e
 
 Lo primero fue poner en contexto a ChatGPT utilizando la dinámica de “role play” para darle un papel: ser un equipo de marketing trabajando para un cliente que busca lanzar un producto en el mercado mexicano:
 
+![ChatGPT entregó un esquema de Estrategia de Marketing](images/esquema_estrategia_marketing.png)
+
 ChatGPT entregó un esquema de Estrategia de Marketing, sin embargo, era muy general para lo que buscamos. Ajustamos el prompt para darle más contexto y que su propuesta se adecuara de mejor forma a lo que buscábamos:
+
+![Ajustamos el prompt](images/ajuste_prompt.png)
 
 Con esto, GPT adaptó la estrategia un poco mejor, sin embargo, decidió cambiar el nombre del producto XD para “adaptarlo al mercado mexicano”.
 
 Ahí identificamos un área de oportunidad para que, sin cambiar el nombre del producto, los casos de uso debieran adaptarse al mercado mexicano: “no comemos burritos, pero sí mucha garnacha”.
 
+![Definición del mercado meta](images/mercado_meta.png)
+
 Tras tener una mejor definición del mercado meta y la tropicalización del producto al mercado, sin cambiar su nombre, solicitamos a ChatGPT crear un “concepto creativo” que sería la línea rectora para la generación de nuestros entregables:
 
+![Concepto creativo](images/concepto_creativo.png)
+
 Siguiendo la lógica del “juego de rol” le fuimos dando feedback, “a nombre del cliente” para guiar a GPT hacia propuestas más creativas:
+
+![Feedback al cliente](images/feedback_cliente.png)
 
 ---
 
@@ -57,11 +67,19 @@ Siguiendo la lógica del “juego de rol” le fuimos dando feedback, “a nombr
 
 Una vez que tuvimos un concepto, pasamos a los entregables específicos:
 
+![Entregables específicos](images/entregables_especificos.png)
+
 Sin embargo, notamos que GPT no contextualizó tanto sus bajadas a situaciones cercanas para el público mexicano, por lo que le pedimos que las adaptara un poco:
+
+![Adaptación del contexto](images/adaptacion_contexto.png)
 
 También notamos que estaba siendo muy “políticamente correcto”, lo cual consideramos que podía estar limitando la creatividad, por lo que le dimos nuevo feedback tratando de empujarlo a que no se censurara tanto:
 
+![Nuevo feedback](images/nuevo_feedback.png)
+
 #### 1er Entregable
+
+![Primer entregable](images/primer_entregable.png)
 
 Repetimos el proceso más o menos con la misma técnica para llegar a los otros 2 entregables:
 
@@ -85,5 +103,5 @@ Debido a que nuestro tema no requería mucha investigación o *fact checking* al
 
 Aquí puedes ver las conversaciones completas que tuvimos con ChatGPT:
 
-- Chat 1
-- Chat 2
+- [Chat 1](https://chatgpt.com/share/7f5170be-0baa-41f3-8173-46e2818801e4)
+- [Chat 2](https://chatgpt.com/share/beb9bb67-2941-43f3-b5b3-69b850b78d74)
